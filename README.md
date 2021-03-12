@@ -8,4 +8,4 @@ This is how our project looks like (check pdf file for more details, we have 25 
 ![4](https://user-images.githubusercontent.com/69651222/110970217-938a0480-836a-11eb-854d-caa70d2feb10.png)
 
 
-Detailed explanation in Turkish with screenshots provided in PDF folder, feel free to check them out.
+Detailed explanation in Turkish with screenshots provided in PDF folder, feel free to check them out !.
