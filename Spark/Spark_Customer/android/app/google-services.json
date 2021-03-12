@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475057715354",
+    "firebase_url": "https://gsu-park.firebaseio.com",
+    "project_id": "gsu-park",
+    "storage_bucket": "gsu-park.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475057715354:android:c5d0c1e8ff181c4f9b8723",
+        "android_client_info": {
+          "package_name": "com.example.gsu_park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475057715354-3b8ebu0i5vl4eibekugorevqrtdpodbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhAl3BDq5bXupT-_ILD_yAPEgbsgl8GM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475057715354-3b8ebu0i5vl4eibekugorevqrtdpodbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
